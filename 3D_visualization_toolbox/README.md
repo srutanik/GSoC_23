@@ -12,9 +12,10 @@ To use this in a Jupyter cell, follow these steps:
 
 3. In your Jupyter Notebook, import the function from the plot_3D_model.py file and use it to visualize the 3D geometry of the      model.
 
-** Example Code **
+## Example Code 
 
-    ```python
+```python
+
     from plot_3D_model import visualize_3D_model
 
     # Your other code
@@ -22,4 +23,4 @@ To use this in a Jupyter cell, follow these steps:
     visualize_3D_model(arguments)  # Call the function to visualize the 3D model
 
 
-    ```
+```

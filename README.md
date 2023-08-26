@@ -11,7 +11,7 @@
   - Rania Patsia
   - John Hartley
 
-    Special thanks to [@JaydevSR](https://github.com/JaydevSR) for his valuable guidance regarding GSoC and helping with the proposal.
+* Special thanks to [@JaydevSR](https://github.com/JaydevSR) for his valuable guidance regarding GSoC and helping with the proposal.
 
 
 ## ✍🏼 **PROJECT DESCRIPTION**:
