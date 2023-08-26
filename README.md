@@ -11,6 +11,9 @@
   - Rania Patsia
   - John Hartley
 
+  Special thanks to [@JaydevSR](https://github.com/JaydevSR) for introducing me to Open-Source and his guidance before GSoC '23 and helping with my proposal.
+
+
 ## ✍🏼 **PROJECT DESCRIPTION**:
 
 We create a custom gprMax kernel in the Jupyter Notebook which contains all the necessary modules and files from the gprMax installation that can be used within the Jupyter Notebook.
