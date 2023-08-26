@@ -55,7 +55,7 @@ After completing the installation, you can launch your Jupyter Notebook and crea
 </p>
 
 
-## 🎉 **FINAL TOUCH**:
+## 🎉 **FINAL NOTE**:
 
 Feel free to explore and experiment with the gprMax custom kernel in your Jupyter Notebook environment. If you encounter any issues or have questions, don't hesitate to reach out for assistance.
 
