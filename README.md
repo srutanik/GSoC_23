@@ -47,7 +47,6 @@ $ python install_notebook_dependencies.py
 
 After completing the installation, you can launch your Jupyter Notebook and create a new notebook. From the kernel options, select the gprMax-devel custom kernel that you've installed. This will allow you to use the gprMax functionality seamlessly within your Jupyter Notebook environment.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GVbilnPYg9Q" frameborder="0" allowfullscreen></iframe>
 
 ## 🎉 **FINAL TOUCH**:
 
