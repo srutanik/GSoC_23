@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/readme-header.png">
+  <img src="media/header-f.png">
 </p>
 
 ## 💻 **Google Summer of Code 2023**:
