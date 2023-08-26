@@ -13,6 +13,7 @@ To use this in a Jupyter cell, follow these steps:
 3. In your Jupyter Notebook, import the function from the plot_3D_model.py file and use it to visualize the 3D geometry of the      model.
 
 ** Example Code **
+
     ```python
     from plot_3D_model import visualize_3D_model
 
