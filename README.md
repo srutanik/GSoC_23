@@ -63,9 +63,6 @@ Happy coding!
 
 ---
 
-
-# A small Notion Page
-
 I also made a very concise Notion page where I wrote little parts of what I did, just like that. It's not at all comprehensive, it's just for fun
 
 
