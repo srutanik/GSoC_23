@@ -51,6 +51,10 @@ After completing the installation, you can launch your Jupyter Notebook and crea
   <img src="media/jupyter-demo.png">
 </p>
 
+## 📄 ** UPDATED gprMax FILES**:
+
+During the installation of gprMax on a system running Fedora 38, the evtk imports were producing errors. So I edited a few lines of the code that handles the import inheritance of the evtk module. 
+
 
 ## 🎉 **FINAL NOTE**:
 
