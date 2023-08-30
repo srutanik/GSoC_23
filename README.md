@@ -21,7 +21,7 @@ We create a custom gprMax kernel in the Jupyter Notebook which contains all the 
 2. `3D_visualization_toolbox` - Contains a custom 3D visualization function using the PyVista python library to show the geometry output of the model.
 3. Modified gprMax files - Adjusted relative imports in these files from the gprMax-devel branch to resolve errors.
 4. Test Models Notebooks - Files like `cylinder_Ascan_2D` and others, each containing a test notebook showcasing gprMax usage in notebooks.
-5. `colab_notebook.ipynb` - This file contains instructions of how to install gprMax on a Google Colab notebook, run the model and also visualize the `.vti` 3D output. An example is also given within it with the `cylinder_3D_Ascan` file. 
+5. `colab_notebook.ipynb` - This file contains instructions of how to install gprMax on a Google Colab notebook, run the model and also visualize the `.vti` 3D output. An example is also given within it with the `cylinder_Ascam_2D` file. 
 
 Each folder has its own README which gives a short description of its contents.
 
