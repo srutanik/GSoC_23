@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/header-f.png">
+  <img src="assets/header-f.png">
 </p>
 
 ## 💻 **Google Summer of Code 2023**:
@@ -48,7 +48,7 @@ $ python install_notebook_dependencies.py
 After completing the installation, you can launch your Jupyter Notebook and create a new notebook. From the kernel options, select the gprMax-devel custom kernel that you've installed. This will allow you to use the gprMax functionality seamlessly within your Jupyter Notebook environment.
 
 <p align="center">
-  <img src="media/jupyter-demo.png">
+  <img src="assets/jupyter-demo.png">
 </p>
 
 ## 📄 **UPDATED gprMax FILES**:
