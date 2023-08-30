@@ -26,7 +26,7 @@ Each folder has its own README which gives a short description of its contents.
 
 ## 🚀 **INSTALLATION INSTRUCTIONS**:
 
-1. Install the gprMax-devel as you would for a normal installation, ensuring that GCC and Jupyter Notebook are installed.
+1. Install the gprMax-devel as you would for a normal installation, ensuring that [Miniconda](https://docs.conda.io/en/latest/miniconda.html) and GCC (for Linux/Mac) or [Microsoft Build Tools for Visual Studio 2022](https://aka.ms/vs/17/release/vs_BuildTools.exe) (for Windows) are installed.
 
 ```shell
 $ conda update conda

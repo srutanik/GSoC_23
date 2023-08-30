@@ -2,9 +2,6 @@
 #linux after a regular gprMax installation would automatically create the kernel for you and then the models can be run within a
 #notebook environment.
 
-
-
-
 import subprocess
 
 def install_packages():
