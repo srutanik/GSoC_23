@@ -1,5 +1,21 @@
 def visualize_vti_output(filename, orientation = 'xy', opacity = 0.4, backend = 'static'):
-
+    
+    """Plots a 3D visualization of the geometry view file. All the 
+    objects like 'pec', 'free space', 'half space' are shown using different
+    colours as given on the legend on the top right of the visualization.
+    
+    Args:
+        filename: string of filename (including path) of the geometry view file.
+                    eg: cylinder_half_space.vti
+        orientation: string in which plane the 3D output is to be shown.
+                    eg: xy, yz, zx
+        opacity: float to determine the transparency of the background.
+        backend: string for the 3D plot to be static or dynamic.
+    
+    Returns:
+        p.show: PyVista plot object.
+    """
+                    
     import pyvista as pv
     import vtk
     import numpy as np
