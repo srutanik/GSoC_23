@@ -42,7 +42,7 @@ visualize_vti_output(filename, orientation = 'xy', opacity = 0.4, backend = 'sta
 
 ```python
 
-    from plot_3D_model import visualize_3D_model
+    from visualization_toolbox import visualize_3D_model
 
     # Call the function to visualize the 3D model
     visualize_3D_model(arguments)  
