@@ -25,7 +25,7 @@ The `visualize_vti_model` function takes arguments in the following way:
 
 ```python
 
-def visualize_vti_output(filename, orientation = 'xy', opacity = 0.4, backend = 'static'):
+visualize_vti_output(filename, orientation = 'xy', opacity = 0.4, backend = 'static'):
 
 ```
 **Arguments:** <br>
