@@ -70,7 +70,7 @@ During the installation of gprMax on a system running Fedora 38, the evtk import
 A pull request has been issued to add my work done of some changes and updates and new feature to the original gprMax repo.
 The pull request can be found below:
 
-[PULL REQUEST](https://github.com/gprMax/gprMax/pull/376)
+[PULL REQUEST](https://github.com/gprMax/gprMax/pull/381)
 
 
 ## 🎉 **FINAL NOTE**:
